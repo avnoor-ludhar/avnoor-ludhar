@@ -3,7 +3,7 @@
 I'm a third-year Software Engineering student at the University of Windsor, passionate about building full-stack applications that make a real-world impact. I love working at the intersection of AI, systems, and product development.
 
 ## 🔧 Currently Building
-- Software Developer Co-op @ **Utilismart**, contributing to enterprise smart grid platforms
+- Software Developer Co-op @ **Utilismart Corporation**, contributing to enterprise smart grid platforms
 
 ## 🚀 Featured Projects
 
