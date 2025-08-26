@@ -32,5 +32,5 @@ I'm a third-year Software Engineering student at the University of Windsor, pass
 
 ## 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/avnoor-ludhar-2028012a1/)  [![Portfolio](https://img.shields.io/badge/Website-Portfolio-black)](https://avnoorludhar.com/)  [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:ludhar1@uwindsor.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/avnoor-ludhar-2028012a1/)   [![Portfolio](https://img.shields.io/badge/Website-Portfolio-black)](https://avnoorludhar.com/)   [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:ludhar1@uwindsor.ca)
 
