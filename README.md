@@ -7,7 +7,7 @@ I'm a third-year Software Engineering student at the University of Windsor, pass
 
 ## 🚀 Featured Projects
 
-- [**InterviewME**](https://github.com/avnoor-ludhar/interview.me) – Real-time mock interview app powered by WebSockets and a fine-tuned LLM on Vertex AI  
+- [**InterviewME**](https://github.com/avnoor-ludhar/interview.me) – Real-time mock interview app powered by WebSockets, Gemini, and a fine-tuned LLM on Vertex AI  
   → Instant feedback, scoring, and transcription with Deepgram
 
 - [**BitcoinTrader**](https://github.com/avnoor-ludhar/BitcoinTrader) – Automated trader using sentiment analysis (VADER) + technical indicators (RSI, SMA)  
